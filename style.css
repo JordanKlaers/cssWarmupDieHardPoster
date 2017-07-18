@@ -1,0 +1,443 @@
+#container{
+  position:relative;
+}
+
+#tan{
+  position: absolute;
+  height: 500px;
+  width: 300px;
+  background-color: rgb(211, 193, 137);
+}
+
+#red{
+  position: absolute;
+  height: 470px;
+  width: 270px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: rgb(181, 32, 44);
+}
+
+#containerForInside{
+  position: absolute;
+  height: 380px;
+  width: 140px;
+  /*margin: auto;*/
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 15%;
+  margin-bottom: 50%;
+  transform: translateX(-50%);
+
+
+  /*background-color: yellow;*/
+}
+
+
+img{
+margin-left: 50%;
+transform: translateX(-50%);
+}
+
+.centerdots1{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  transform: translateX(-50%);
+}
+.centerdots2{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 24px;
+  transform: translateX(-50%);
+}
+.centerdots3{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 48px;
+  transform: translateX(-50%);
+}
+.centerdots4{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 72px;
+  transform: translateX(-50%);
+}
+.centerdots5{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 96px;
+  transform: translateX(-50%);
+}
+.centerdots6{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 120px;
+  transform: translateX(-50%);
+}
+.centerdots7{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 144px;
+  transform: translateX(-50%);
+}
+.centerdots8{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 168px;
+  transform: translateX(-50%);
+}
+.centerdots9{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 192px;
+  transform: translateX(-50%);
+}
+.centerdots10{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 216px;
+  transform: translateX(-50%);
+}
+.centerdots11{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 50%;
+  margin-bottom: 3px;
+  margin-top: 240px;
+  transform: translateX(-50%);
+}
+
+
+
+.leftdots1{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  transform: translateX(-50%);
+}
+.leftdots2{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 24px;
+  transform: translateX(-50%);
+}
+.leftdots3{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 48px;
+  transform: translateX(-50%);
+}
+.leftdots4{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 72px;
+  transform: translateX(-50%);
+}
+.leftdots5{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 96px;
+  transform: translateX(-50%);
+}
+.leftdots6{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 120px;
+  transform: translateX(-50%);
+}
+.leftdots7{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 144px;
+  transform: translateX(-50%);
+}
+.leftdots8{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 168px;
+  transform: translateX(-50%);
+}
+.leftdots9{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 192px;
+  transform: translateX(-50%);
+}
+.leftdots10{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 216px;
+  transform: translateX(-50%);
+}
+.leftdots11{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 30%;
+  margin-bottom: 3px;
+  margin-top: 240px;
+  transform: translateX(-50%);
+}
+
+
+
+
+.rightdots1{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  transform: translateX(-50%);
+}
+.rightdots2{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 24px;
+  transform: translateX(-50%);
+}
+.rightdots3{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 48px;
+  transform: translateX(-50%);
+}
+.rightdots4{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 72px;
+  transform: translateX(-50%);
+}
+.rightdots5{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 96px;
+  transform: translateX(-50%);
+}
+.rightdots6{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 120px;
+  transform: translateX(-50%);
+}
+.rightdots7{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 144px;
+  transform: translateX(-50%);
+}
+.rightdots8{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 168px;
+  transform: translateX(-50%);
+}
+.rightdots9{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 192px;
+  transform: translateX(-50%);
+}
+.rightdots10{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 216px;
+  transform: translateX(-50%);
+}
+.rightdots11{
+  position: absolute;
+  width:18px;
+  height:18px;
+  border: 2px solid;
+  border-radius: 25px;
+  background-color: black;
+  margin-left: 70%;
+  margin-bottom: 3px;
+  margin-top: 240px;
+  transform: translateX(-50%);
+}
